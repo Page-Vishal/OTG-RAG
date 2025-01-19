@@ -1,0 +1,3 @@
+pip install -q streamlit pypdf2 langchain faiss-cpu langchain_community langchain_groq langchain_huggingface
+
+pip install -r requirements.txt
