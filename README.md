@@ -1,4 +1,4 @@
-# OTG-RAG : Checkout here at ([streamlit}(https://st-chatpdf.streamlit.app/))
+# OTG-RAG : Checkout here at ( [streamlit](https://st-chatpdf.streamlit.app/) )
 
 This is a chatbot made to chat with multiple PDFs.
 Add the number of PDFs that you need (limit 200MB),
